@@ -29,7 +29,7 @@
 
 We presented **Flash-VStream**, a noval LMM able to process extremely long video streams in real-time and respond to user queries simultaneously.
 
-We also proposed **VStream-QA**, a novel question answering benchmark specifically designed for online video streaming understanding. (Coming Soon)
+We also proposed **VStream-QA**, a novel question answering benchmark specifically designed for online video streaming understanding.
 
 <p align="center">
 <img src="assets/radar_comparison.png" width="60%">
