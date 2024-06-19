@@ -269,8 +269,5 @@ We would like to thank the following repos for their great work:
 
 ## License
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-yellow.svg)](LICENSE)
-[![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-orange.svg)](CC_BY-NC_4.0_LICENSE)
-[![Weight License](https://img.shields.io/badge/Weight%20License-CC%20By%20NC%204.0-red)](CC_BY-NC_4.0_LICENSE)
 
-The data and checkpoint is intended and licensed for research use only. They are also restricted to uses that follow the license agreement of LLaVA, LLaMA, Vicuna and GPT-4. The dataset is CC BY-NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes.
-
+This project is licensed under the [Apache-2.0 License](LICENSE).
