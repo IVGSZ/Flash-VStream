@@ -82,7 +82,7 @@ We provide our Flash-VStream models after Stage 1 and 2 finetuning:
 
 | Model | Weight | Initialized from LLM | Initialized from ViT |
 | --- | --- | --- | --- |
-| Flash-VStream-7b | [Flash-VStream-7b](TODO) | [lmsys/vicuna-7b-v1.5](https://huggingface.co/lmsys/vicuna-7b-v1.5) | [openai/clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) |
+| Flash-VStream-7b | [Flash-VStream-7b](https://huggingface.co/IVGSZ/Flash-VStream-7b) | [lmsys/vicuna-7b-v1.5](https://huggingface.co/lmsys/vicuna-7b-v1.5) | [openai/clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) |
 
 
 ## Preparation
@@ -243,7 +243,7 @@ bash scripts/realtime_cli.sh
 ```
 
 ## VStream-QA Benchmark
-Please download VStream-QA Benchmark following [this](TODO) repo.
+Please download VStream-QA Benchmark following [this](https://huggingface.co/datasets/IVGSZ/VStream-QA) repo.
 
 ## Citation
 If you find this project useful in your research, please consider citing:
