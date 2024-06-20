@@ -39,7 +39,7 @@ We also proposed **VStream-QA**, a novel question answering benchmark specifical
 </p>
 
 ## News
-- [2024/06/20] 🔥 Flash-VStream is comming! We release the 
+- [2024/06/20] 🔥 Flash-VStream is coming! We release the 
 [homepage](https://invinciblewyq.github.io/vstream-page), 
 [paper](https://arxiv.org/abs/2406.08085v1)
 for Flash-VStream.
