@@ -30,6 +30,9 @@
 <!-- actnetqa badge -->
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/flash-vstream-memory-based-real-time/zeroshot-video-question-answer-on-activitynet)](https://paperswithcode.com/sota/zeroshot-video-question-answer-on-activitynet?p=flash-vstream-memory-based-real-time)
 
+<!-- loveu@cvpr'24 challenge badge -->
+<a href="https://sites.google.com/view/loveucvpr24/track1"><img src='https://img.shields.io/badge/1st Place-LOVEU Challenge Track 1@CVPR24-FFD700'></a>
+
 
 We presented **Flash-VStream**, a noval LMM able to process extremely long video streams in real-time and respond to user queries simultaneously.
 
@@ -43,7 +46,9 @@ We also proposed **VStream-QA**, a novel question answering benchmark specifical
 </p>
 
 ## News
-- [2024/06/20] 🔥 Flash-VStream is coming! We release the 
+- [2024/6/15] 🏅 Our team won the 1st Place at [Long-Term Video Question Answering Challenge](https://sites.google.com/view/loveucvpr24/track1) of [LOVEU Workshop@CVPR'24](https://sites.google.com/view/loveucvpr24/home). We used a Hierarchical Memory model based on Flash-VStream-7b.
+
+- [2024/06/12] 🔥 Flash-VStream is coming! We release the 
 [homepage](https://invinciblewyq.github.io/vstream-page), 
 [paper](https://arxiv.org/abs/2406.08085v1),
 [code](https://github.com/IVGSZ/Flash-VStream)
