@@ -1,3 +1,5 @@
+# Based on https://github.com/haotian-liu/LLaVA.
+
 import dataclasses
 from enum import auto, Enum
 from typing import List, Tuple

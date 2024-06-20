@@ -1,3 +1,5 @@
+# Based on https://github.com/haotian-liu/LLaVA.
+
 from PIL import Image
 from io import BytesIO
 import base64

@@ -1,3 +1,6 @@
+# This file may have been modified by Flash-VStream Authors (Flash-VStream Modifications”). All Flash-VStream Modifications are Copyright 2024 Flash-VStream Authors. 
+# Based on https://github.com/haotian-liu/LLaVA.
+
 import os
 import json
 import math

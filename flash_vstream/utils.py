@@ -1,3 +1,5 @@
+# Based on https://github.com/haotian-liu/LLaVA.
+
 import datetime
 import logging
 import logging.handlers

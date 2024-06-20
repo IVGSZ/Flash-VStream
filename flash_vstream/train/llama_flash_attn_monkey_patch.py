@@ -1,3 +1,5 @@
+# Based on https://github.com/haotian-liu/LLaVA.
+
 from typing import Optional, Tuple
 import warnings
 

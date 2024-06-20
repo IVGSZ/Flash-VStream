@@ -1,3 +1,4 @@
+# Based on https://github.com/haotian-liu/LLaVA.
 
 import os
 import ast

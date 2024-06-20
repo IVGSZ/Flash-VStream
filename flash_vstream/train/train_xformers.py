@@ -1,3 +1,5 @@
+# Based on https://github.com/haotian-liu/LLaVA.
+
 # Make it more memory efficient by monkey patching the LLaMA model with xformers attention.
 
 # Need to call this before importing transformers.

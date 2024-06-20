@@ -1,3 +1,5 @@
+# Based on https://github.com/haotian-liu/LLaVA.
+
 import os
 from .clip_encoder import CLIPVisionTower
 
