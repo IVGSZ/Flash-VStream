@@ -13,6 +13,10 @@
 
 <a href="https://invinciblewyq.github.io/vstream-page/"><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href="https://arxiv.org/abs/2406.08085v1"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href="https://huggingface.co/IVGSZ/Flash-VStream-7b"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
+<a href="https://huggingface.co/datasets/IVGSZ/VStream-QA"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-green'></a>
+
+
 
 <!-- msvd badge -->
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/flash-vstream-memory-based-real-time/zeroshot-video-question-answer-on-msvd-qa)](https://paperswithcode.com/sota/zeroshot-video-question-answer-on-msvd-qa?p=flash-vstream-memory-based-real-time)
@@ -39,11 +43,13 @@ We also proposed **VStream-QA**, a novel question answering benchmark specifical
 </p>
 
 ## News
-- [2024/06/20] 🔥 Flash-VStream is comming! We release the 
+- [2024/06/20] 🔥 Flash-VStream is coming! We release the 
 [homepage](https://invinciblewyq.github.io/vstream-page), 
-[paper](https://arxiv.org/abs/2406.08085v1)
+[paper](https://arxiv.org/abs/2406.08085v1),
+[code](https://github.com/IVGSZ/Flash-VStream)
+and [model](https://huggingface.co/IVGSZ/Flash-VStream-7b)
 for Flash-VStream.
-
+We release the [dataset](https://huggingface.co/datasets/IVGSZ/VStream-QA) for VStream-QA benchmark.
 
 ## Contents
 - [Install](#install)
