@@ -1,3 +1,35 @@
+Metadata-Version: 2.1
+Name: vstream
+Version: 1.0
+Summary: Flash-VStream
+Project-URL: Homepage, https://github.com/zhang9302002/Flash-VStream
+Project-URL: Bug Tracker, https://github.com/zhang9302002/Flash-VStream/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: tokenizers>=0.12.1
+Requires-Dist: torch==2.0.1
+Requires-Dist: torchvision==0.15.2
+Requires-Dist: wandb
+Requires-Dist: tensorboard
+Requires-Dist: tensorboardX
+Requires-Dist: httpx==0.24.1
+Requires-Dist: deepspeed==0.9.5
+Requires-Dist: peft==0.4.0
+Requires-Dist: transformers==4.31.0
+Requires-Dist: accelerate==0.21.0
+Requires-Dist: bitsandbytes==0.41.0
+Requires-Dist: scikit-learn==1.2.2
+Requires-Dist: sentencepiece==0.1.99
+Requires-Dist: einops==0.6.1
+Requires-Dist: einops-exts==0.0.4
+Requires-Dist: timm==0.6.13
+Requires-Dist: decord
+Requires-Dist: openai==0.28.0
+
 # Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams
 
 
@@ -13,7 +45,6 @@
 
 <a href="https://invinciblewyq.github.io/vstream-page/"><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href="https://arxiv.org/abs/2406.08085v1"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<a href="https://huggingface.co/IVGSZ/Flash-VStream-demo"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-orange'></a>
 <a href="https://huggingface.co/IVGSZ/Flash-VStream-7b"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 <a href="https://huggingface.co/datasets/IVGSZ/VStream-QA"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-green'></a>
 
