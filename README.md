@@ -34,6 +34,10 @@
 <!-- loveu@cvpr'24 challenge badge -->
 <a href="https://sites.google.com/view/loveucvpr24/track1"><img src='https://img.shields.io/badge/1st Place-LOVEU Challenge Track 1@CVPR24-FFD700'></a>
 
+<!-- loveu@cvpr'24 challenge certification -->
+<a href="https://github.com/bytedance/Flash-VStream/assets/37479394/e1496dec-52c8-4707-aabe-fd1970c8f874"><img src='https://img.shields.io/badge/Certification-LOVEU Challenge-FFD700'>
+</a>
+
 
 We presented **Flash-VStream**, a noval LMM able to process extremely long video streams in real-time and respond to user queries simultaneously.
 
@@ -47,7 +51,8 @@ We also proposed **VStream-QA**, a novel question answering benchmark specifical
 </p>
 
 ## News
-- [2024/6/15] 🏅 Our team won the 1st Place at [Long-Term Video Question Answering Challenge](https://sites.google.com/view/loveucvpr24/track1) of [LOVEU Workshop@CVPR'24](https://sites.google.com/view/loveucvpr24/home). We used a Hierarchical Memory model based on Flash-VStream-7b.
+- [2024/6/15] 🏅 Our team won the 1st Place at [Long-Term Video Question Answering Challenge](https://sites.google.com/view/loveucvpr24/track1) of [LOVEU Workshop@CVPR'24](https://sites.google.com/view/loveucvpr24/home). Here is our [certification](https://github.com/bytedance/Flash-VStream/assets/37479394/e1496dec-52c8-4707-aabe-fd1970c8f874). 
+We used a Hierarchical Memory model based on Flash-VStream-7b.
 
 - [2024/06/12] 🔥 Flash-VStream is coming! We release the 
 [homepage](https://invinciblewyq.github.io/vstream-page), 
