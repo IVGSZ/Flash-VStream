@@ -8,11 +8,11 @@ import argparse
 from tqdm import tqdm
 from decord import VideoReader, cpu
 
-from llama_vstream.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN, DEFAULT_IM_START_TOKEN, DEFAULT_IM_END_TOKEN
-from llama_vstream.conversation import conv_templates, SeparatorStyle
-from llama_vstream.model.builder import load_pretrained_model
-from llama_vstream.utils import disable_torch_init
-from llama_vstream.mm_utils import tokenizer_image_token, get_model_name_from_path, KeywordsStoppingCriteria
+from flash_vstream.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN, DEFAULT_IM_START_TOKEN, DEFAULT_IM_END_TOKEN
+from flash_vstream.conversation import conv_templates, SeparatorStyle
+from flash_vstream.model.builder import load_pretrained_model
+from flash_vstream.utils import disable_torch_init
+from flash_vstream.mm_utils import tokenizer_image_token, get_model_name_from_path, KeywordsStoppingCriteria
 
 
 def split_list(lst, n):
