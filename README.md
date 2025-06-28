@@ -1,5 +1,8 @@
-# [ICCV 2025] Flash-VStream: Efficient Real-Time Understanding for Long Video Streams
+<p align="center">
+  <img src="assets/logo.jpg" alt="Flash-VStream Logo" width="200"/>
+</p>
 
+# [ICCV 2025] Flash-VStream: Efficient Real-Time Understanding for Long Video Streams
 
 <a href="https://zhang9302002.github.io/">Haoji Zhang</a><sup>\*</sup>,
 <a href="https://github.com/InvincibleWyq/">Yiqin Wang</a><sup>\*</sup>,
