@@ -27,7 +27,7 @@ We proposed **Flash-VStream**, an efficient VLM with a novel Flash Memory mechan
 ## News
 - [2025/6/26] 🔥 [ICCV 2025] Flash-VStream-Qwen is coming! We release the 
 [homepage](https://zhang9302002.github.io/vstream-iccv-page/). 
-Paper, code and model is on the way.
+Paper, code and model are on the way.
 
 - [2024/6/15] 🏅 Our team won the 1st Place at [Long-Term Video Question Answering Challenge](https://sites.google.com/view/loveucvpr24/track1) of [LOVEU Workshop@CVPR'24](https://sites.google.com/view/loveucvpr24/home). Here is our [certification](https://github.com/bytedance/Flash-VStream/assets/37479394/e1496dec-52c8-4707-aabe-fd1970c8f874). 
 We used a Hierarchical Memory model based on Flash-VStream-7b.
