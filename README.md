@@ -18,7 +18,7 @@
 **Work done when interning at Bytedance.**
 
 <a href="https://zhang9302002.github.io/vstream-iccv-page/"><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href=""><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href="http://arxiv.org/abs/2506.23825"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 We proposed **Flash-VStream**, an efficient VLM with a novel Flash Memory mechanism that enables real-time understanding and Q&A of extremely long video streams. Our model achieves outstanding accuracy and efficiency on EgoSchema, MLVU, LVBench, MVBench and Video-MME Benchmarks.
 
@@ -29,15 +29,16 @@ We proposed **Flash-VStream**, an efficient VLM with a novel Flash Memory mechan
 
 ## News
 - [2025/6/26] 🔥 [ICCV 2025] Flash-VStream-Qwen is coming! We release the 
-[homepage](https://zhang9302002.github.io/vstream-iccv-page/). 
-Paper, code and model are on the way.
+[homepage](https://zhang9302002.github.io/vstream-iccv-page/),
+[paper](http://arxiv.org/abs/2506.23825),
+Code and model are on the way.
 
 - [2024/6/15] 🏅 Our team won the 1st Place at [Long-Term Video Question Answering Challenge](https://sites.google.com/view/loveucvpr24/track1) of [LOVEU Workshop@CVPR'24](https://sites.google.com/view/loveucvpr24/home). Here is our [certification](https://github.com/bytedance/Flash-VStream/assets/37479394/e1496dec-52c8-4707-aabe-fd1970c8f874). 
 We used a Hierarchical Memory model based on Flash-VStream-7b.
 
 - [2024/06/12] Flash-VStream-LLaVA is coming! We release the 
 [homepage](https://invinciblewyq.github.io/vstream-page), 
-[paper](https://arxiv.org/abs/2406.08085v1),
+[paper](https://arxiv.org/abs/2406.08085),
 [code](https://github.com/IVGSZ/Flash-VStream)
 and [model](https://huggingface.co/IVGSZ/Flash-VStream-7b)
 for Flash-VStream.
@@ -63,13 +64,17 @@ See [Flash-VStream-LLaVA/README.md](Flash-VStream-LLaVA/README.md).
 If you find this project useful in your research, please consider citing:
 
 ```
-@article{flashvstream,
-      title={Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams}, 
-      author={Haoji Zhang and Yiqin Wang and Yansong Tang and Yong Liu and Jiashi Feng and Jifeng Dai and Xiaojie Jin},
-      year={2024},
-      eprint={2406.08085},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zhang2025flashvstream,
+    title={Flash-VStream: Efficient Real-Time Understanding for Long Video Streams}, 
+    author={Haoji Zhang and Yiqin Wang and Yansong Tang and Yong Liu and Jiashi Feng and Xiaojie Jin},
+    journal={arXiv preprint arXiv:2506.23825},
+    year={2025},
+}
+@article{zhang2024flashvstream,
+    title={Flash-vstream: Memory-based real-time understanding for long video streams},
+    author={Zhang, Haoji and Wang, Yiqin and Tang, Yansong and Liu, Yong and Feng, Jiashi and Dai, Jifeng and Jin, Xiaojie},
+    journal={arXiv preprint arXiv:2406.08085},
+    year={2024}
 }
 ```
 
