@@ -14,7 +14,7 @@
 **Work done when interning at Bytedance.**
 
 <a href="https://zhang9302002.github.io/vstream-iccv-page/"><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href=""><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href="http://arxiv.org/abs/2506.23825"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 We proposed Flash-VStream, an efficient VLM with a novel Flash Memory mechanism that enables real-time understanding and Q&A of extremely long video streams. Our model achieves outstanding efficiency on EgoSchema, MLVU, LVBench, MVBench and Video-MME Benchmarks.
 
