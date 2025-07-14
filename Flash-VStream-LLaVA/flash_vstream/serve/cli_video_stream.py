@@ -144,7 +144,6 @@ def video_stream_similator(video_file, frame_queue, log_queue, video_fps=1.0, pl
     sample_fps = round(vr.get_avg_fps() / video_fps)
     frame_idx = [i for i in range(0, len(vr), sample_fps)]
     video = vr.get_batch(frame_idx).asnumpy()
-    video = np.repeat(video, 6, axis=0)
     length = video.shape[0]
     sleep_time = 1 / video_fps / play_speed
     time_meter = MetricMeter()
