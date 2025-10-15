@@ -19,6 +19,8 @@
 
 <a href="https://zhang9302002.github.io/vstream-iccv-page/"><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href="http://arxiv.org/abs/2506.23825"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href="https://github.com/IVGSZ/Flash-VStream"><img src='https://img.shields.io/badge/Github-Code-blue'></a>
+<a href="https://huggingface.co/zhang9302002/Flash-VStream-Qwen-7b"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 
 We proposed **Flash-VStream**, an efficient VLM with a novel Flash Memory mechanism that enables real-time understanding and Q&A of extremely long video streams. Our model achieves outstanding accuracy and efficiency on EgoSchema, MLVU, LVBench, MVBench and Video-MME Benchmarks.
 
@@ -31,7 +33,8 @@ We proposed **Flash-VStream**, an efficient VLM with a novel Flash Memory mechan
 - [2025/6/26] 🔥 [ICCV 2025] Flash-VStream-Qwen is coming! We release the 
 [homepage](https://zhang9302002.github.io/vstream-iccv-page/),
 [paper](http://arxiv.org/abs/2506.23825),
-Code and model are on the way.
+[Code](./Flash-VStream-Qwen), 
+and [model](https://huggingface.co/zhang9302002/Flash-VStream-Qwen-7b).
 
 - [2024/6/15] 🏅 Our team won the 1st Place at [Long-Term Video Question Answering Challenge](https://sites.google.com/view/loveucvpr24/track1) of [LOVEU Workshop@CVPR'24](https://sites.google.com/view/loveucvpr24/home). Here is our [certification](https://github.com/bytedance/Flash-VStream/assets/37479394/e1496dec-52c8-4707-aabe-fd1970c8f874). 
 We used a Hierarchical Memory model based on Flash-VStream-7b.
@@ -39,7 +42,7 @@ We used a Hierarchical Memory model based on Flash-VStream-7b.
 - [2024/06/12] Flash-VStream-LLaVA is coming! We release the 
 [homepage](https://invinciblewyq.github.io/vstream-page), 
 [paper](https://arxiv.org/abs/2406.08085),
-[code](https://github.com/IVGSZ/Flash-VStream)
+[code](./Flash-VStream-LLaVA)
 and [model](https://huggingface.co/IVGSZ/Flash-VStream-7b)
 for Flash-VStream.
 We release the [dataset](https://huggingface.co/datasets/IVGSZ/VStream-QA) for VStream-QA benchmark.
